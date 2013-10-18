@@ -1,1 +1,1 @@
-print "Greetings, program!"
+print "Hello, world."
